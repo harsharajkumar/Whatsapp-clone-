@@ -1,20 +1,15 @@
-# whatsapp_messenger
+**Flutter WhatsApp Clone**
 
-A new Flutter project.
+A mobile application built with Flutter that allows users to chat with friends and family, both individually and in groups. 
 
-## Getting Started
+**Features:**
 
-This project is a starting point for a Flutter application.
+* Real-time chat functionality
+* Text messaging with message history and delivery status
+* User registration and login
+* User profiles and contact management
 
-A few resources to get you started if this is your first Flutter project:
+**Tech Stack:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# whatsapp-clone-
-# whatsapp-clone-
-# Whatsapp-clone-
-# whatsapp-clone-
+* Flutter
+* Google maps api 
